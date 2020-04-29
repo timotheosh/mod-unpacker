@@ -1,3 +1,4 @@
+# Common Lisp artifacts
 *.FASL
 *.fasl
 *.lisp-temp
@@ -15,3 +16,8 @@
 *.sx32fsl
 *.wx64fsl
 *.wx32fsl
+*.x86f
+
+# Emacs artifacts
+*~
+.#*

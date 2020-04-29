@@ -1,0 +1,17 @@
+* Mod-Unpacker  - Cli tool that unpacks mods for Morrowind on Windows for a case-sensitive environment, like Linux, for running on OpenMw.
+
+** Usage
+
+** Installation
+
+** Author
+
++ Tim Hawes
+
+** Copyright
+
+Copyright (c) 2020 Tim Hawes
+
+** License
+
+Licensed under the MIT License.
